@@ -15,12 +15,21 @@
 
 ## OBJECTIVES - 
 
-* Sector wise foreign direct investment in india of all 17 financial years.
-* Year wise Forecasting of Foreign direct investments in India.
-* Top 10 sectors by investments.
-* Bottom 10 sectors by Foreign direct investments in India.
-* Year wise Percentage of Foreign direct investments in India between 2000 to 2016.
-* Foreign direct investment in india on sectorwise in 2014,2015,2016 financial years.
+* Find Entertainers Breakthrough Name with year of First Oscar .
+
+* Find Year of last major work and year of Death According to the Entertainer .
+
+* Find Breakthrough wise Entertainer Data means Year of Breakthrough/#1 Hit/Award Nomination as well as Year of First Oscar/Grammy/Emmy .
+
+* Find Gender wise Name And Their Birth Year .
+
+
+
+
+
+## OUTLINE FOR DATA ANALYSIS -
+
+* #### For Excel Project file please refer to : Project Entertainer Excel.xlsx
 
 
 ## SAMPLE VISUALIZATION - 
@@ -34,12 +43,11 @@
 * Then after i have loaded the merged dataset into ms-excel sheet .
 * After that i have Created the pivot tables for creating Graphs and charts for my analysis .
 
-* #### Note- all the steps i have done that i have attached the screenshots below please go through it . later on i have created graphs and charts for analyzing  and visualizing the data with the help of slicers .
+* #### Note - All the steps i have done that i have attached the screenshots below please go through it . later on i have created graphs and charts for analyzing  and visualizing the data with the help of slicers .
 
 
 
 
 
 
- * #### Tableau Public Link 🔗 for the Investment Analytics Dashboard- 
- [https://public.tableau.com/app/profile/ashutos4987/viz/InvestmentAnalyticsDashboard2/Dashboard1]
+
