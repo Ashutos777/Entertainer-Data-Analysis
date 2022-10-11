@@ -9,7 +9,8 @@
 
 ## TOOLS USED - 
 
-   
+  ![images (1)](https://user-images.githubusercontent.com/111995863/195002302-9857cc73-8355-4047-9927-adf6e2b656f8.png)
+ 
             
 
 ## OBJECTIVES - 
@@ -25,28 +26,16 @@
 ## SAMPLE VISUALIZATION - 
 
 
-* First I have Cleaned the Null values and duplicates by using Tableau data interpreter option.
-
-* Secondly I have used the Pivot option For Pivoting the Data.
-
-* After that I have Rename the Pivot Field Name .
-
+* First I have Imported the Datasets into excel sheet .
+* Then i have launched the power query editor and merge the Datasets together . After merging I have expanded the sheets as well . 
+* Later I have Cleaned the Null values and duplicates by using the Power query.
 * Then I have checked the datatypes of all columns of the dataset whether it is correct or not.
+* After Checking up the datatypes format i have Renamed the columns .
+* Then after i have loaded the merged dataset into ms-excel sheet .
+* After that i have Created the pivot tables for creating Graphs and charts for my analysis .
+Note- all the steps i have done that i have attached the screenshots below please go through it . 
 
-* Created the Calculated field .
 
-
-![Screenshot 2022-10-09 102243](https://user-images.githubusercontent.com/111995863/194741360-39c10796-a768-4b39-a28b-7e414c2cf0f9.png)
-
-![Screenshot 2022-10-09 102407](https://user-images.githubusercontent.com/111995863/194741361-04ed67eb-1414-410e-ae5c-7a5a38cd646d.png)
-
-![Screenshot 2022-10-09 102457](https://user-images.githubusercontent.com/111995863/194741368-2a38bf80-0ccb-4112-873f-8e6dc32cd27a.png)
-
-![Screenshot 2022-10-09 102621](https://user-images.githubusercontent.com/111995863/194741374-cbe65b08-1f3e-4e77-b920-26689272e7d1.png)
-
-![Screenshot 2022-10-09 102723](https://user-images.githubusercontent.com/111995863/194741377-e0055d76-767d-40f4-a899-60c5b15ee918.png)
-
-![Screenshot 2022-10-09 112931](https://user-images.githubusercontent.com/111995863/194741397-0c582bce-5b7a-4612-a73d-b1ee9ee16267.png)
 
 
 
