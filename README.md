@@ -101,5 +101,8 @@
 
 ![Screenshot 2022-10-10 194150](https://user-images.githubusercontent.com/111995863/195109970-5a704e56-8553-4b24-a7fb-eae4674e6a6b.png)
 
+![Screenshot 2022-10-10 194328](https://user-images.githubusercontent.com/111995863/195110795-5e36861c-3f2f-4dd8-a0d3-82fa0a042406.png)
+
+![Screenshot 2022-10-10 200632](https://user-images.githubusercontent.com/111995863/195110915-2bc75aa3-b522-4cad-bfcc-320c1cfc43c2.png)
 
 
