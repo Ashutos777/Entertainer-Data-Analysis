@@ -1,7 +1,5 @@
 # Entertainer Data Analysis
-* The Dataset Contains the Entertainers data.
-* This dataset contains sector and financial year wise data of Foreign Direct Investment in India .
-
+* Sample Dataset Contains the Entertainers data . In this Project I have Used Ms-excel For Data Cleaning , Data Analysis and Create Visualizations.
 
 
 ## DATASET -
@@ -11,7 +9,7 @@
 
 ## TOOLS USED - 
 
-   ![download](https://user-images.githubusercontent.com/111995863/194266789-c26badc9-68db-4735-a31c-7e98749ab3c6.jpg)
+   
             
 
 ## OBJECTIVES - 
