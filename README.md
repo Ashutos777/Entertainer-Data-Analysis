@@ -1,12 +1,12 @@
 # Entertainer Data Analysis
-* The Dataset Contains the Foreign direct investment in India for the last 17 years from 2000-01 to 2016-17 of Different Sectors.
+* The Dataset Contains the Entertainers data.
 * This dataset contains sector and financial year wise data of Foreign Direct Investment in India .
 
 
 
 ## DATASET -
 
-* #### For Dataset Please Refer to : 
+* #### For Dataset Please Refer to : entertainer datasets 
 
 
 ## TOOLS USED - 
