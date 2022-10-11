@@ -33,8 +33,8 @@
 * After Checking up the datatypes format i have Renamed the columns .
 * Then after i have loaded the merged dataset into ms-excel sheet .
 * After that i have Created the pivot tables for creating Graphs and charts for my analysis .
-Note- all the steps i have done that i have attached the screenshots below please go through it . 
-after that i have done / created graphs and charts b y using slicers .
+
+* #### Note- all the steps i have done that i have attached the screenshots below please go through it . later on i have created graphs and charts for analyzing  and visualizing the data with the help of slicers .
 
 
 
